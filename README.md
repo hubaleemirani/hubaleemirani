@@ -3,7 +3,7 @@
 <img align="right" alt="img-gif" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning *Mern Stack development*
 
-- 👨‍💻 All of my projects are available at [.............](.............)
+- 👨‍💻 All of my projects are available
 
 - 💬 Ask me about *I can easily create projects that work smoothly on all devices using React.*
 
