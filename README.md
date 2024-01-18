@@ -10,7 +10,7 @@
 - 📫 How to reach me *hubaleemirani@gmail.com*
 - +923000111948
 
-- ⚡ Fun fact ** Frontend web developer skilled in turning design concepts into interactive websites using HTML5, CSS3,Frameworks and JavaScript. Specializing in pixel-perfect precision and seamless functionality for exceptional user experiences across all devices. **
+- ⚡ Fun fact ** Frontend web developer skilled in turning design concepts into interactive websites using HTML5, CSS3, Frameworks and JavaScript. Specializing in pixel-perfect precision and seamless functionality for exceptional user experiences across all devices. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
