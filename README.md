@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hub Ali</h1>
 <h3 align="center">A Passionate Frontend Developer From Karachi Pakistan</h3>
-<img align="right" alt="img-gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="img-gif" width="370" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning *Mern Stack development*
 
 - 👨‍💻 All of my projects are available
