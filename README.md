@@ -8,7 +8,6 @@
 - 💬 Ask me about *I can easily create projects that work smoothly on all devices using React.*
 
 - 📫 How to reach me *hubaleemirani@gmail.com*
-- br
 - +923000111948
 
 - ⚡ Fun fact ** Frontend web developer skilled in turning design concepts into interactive websites using HTML, CSS, and JavaScript. Specializing in pixel-perfect precision and seamless functionality for exceptional user experiences across all devices. **
