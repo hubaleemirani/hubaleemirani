@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hub Ali</h1>
 <h3 align="center">A Passionate Frontend Developer From Karachi Pakistan</h3>
-<img align="right" alt="img-gif" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="img-gif" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning *Mern Stack development*
 
 - 👨‍💻 All of my projects are available at [.............](.............)
@@ -8,8 +8,8 @@
 - 💬 Ask me about *I can easily create projects that work smoothly on all devices using React.*
 
 - 📫 How to reach me *hubaleemirani@gmail.com*
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAF0QQ5VTJM/NwwZq_-TqsjrEpkk0a_nvQ/edit?utm_content=DAF0QQ5VTJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF0QQ5VTJM/NwwZq_-TqsjrEpkk0a_nvQ/edit?utm_content=DAF0QQ5VTJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- br
+- +923000111948
 
 - ⚡ Fun fact ** Frontend web developer skilled in turning design concepts into interactive websites using HTML, CSS, and JavaScript. Specializing in pixel-perfect precision and seamless functionality for exceptional user experiences across all devices. **
 
